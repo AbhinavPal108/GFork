@@ -2,8 +2,9 @@
 
 def add(a, b):
     return a + b
-def subtract(a, b):
+def subtract(float a, float b):
     return a - b
+
 def power(a , b):
     return a * b
 
